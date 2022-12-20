@@ -1,4 +1,4 @@
-selesction sort code:
+"selection sort code:"
   
 def selection_sort(arr,length):
   for i in range(length):
