@@ -1,3 +1,4 @@
+"linear search code:"
 def linear_search(lst, ele):
     for i in range(len(lst)):
         if (ele == lst[i]): 
@@ -17,7 +18,8 @@ print(lst1)
 ele = int(input(''))
 linear_search(lst1,ele)
 
-binary search:
+
+"binary search code :"
     
 def binary_search(arr,x,low,high):
   if (low<=high):
